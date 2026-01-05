@@ -1,0 +1,9 @@
+felipe|12|Desarrollo Web JS|Completado: SI
+felipe|13|Ciberseguridad Basica|Completado: SI
+felipe|1|Introduccion a C++|Completado: SI
+felipe|2|Programacion en Java|Completado: SI
+felipe|50|Modelado 3D|Completado: SI
+felipe|20|Docker y Contenedores|Completado: SI
+felipe|21|Kubernetes|Completado: SI
+una|5|Algoritmos Avanzados|Completado: Si
+Noah|32|Seguridad en Redes|Completado: Si

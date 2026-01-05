@@ -1,0 +1,112 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Archivos de origen">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Archivos de encabezado">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Archivos de recursos">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Archivos de encabezado\CursosEstructuras">
+      <UniqueIdentifier>{6a88d52c-8461-4137-9292-1d8ee576d065}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Archivos de encabezado\EstudiantesEstructuras">
+      <UniqueIdentifier>{1006c8e4-a2a3-4c5b-90e4-d58cdd2007e0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Archivos de encabezado\Users">
+      <UniqueIdentifier>{df92e711-5150-4b5f-ab4b-c9bf6fb8ee4c}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="app.rc">
+      <Filter>Archivos de recursos</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Resource.h">
+      <Filter>Archivos de encabezado</Filter>
+    </ClInclude>
+    <ClInclude Include="pch.h">
+      <Filter>Archivos de encabezado</Filter>
+    </ClInclude>
+    <ClInclude Include="Registro.h">
+      <Filter>Archivos de encabezado</Filter>
+    </ClInclude>
+    <ClInclude Include="Login.h">
+      <Filter>Archivos de encabezado</Filter>
+    </ClInclude>
+    <ClInclude Include="Calificaciones.h">
+      <Filter>Archivos de encabezado</Filter>
+    </ClInclude>
+    <ClInclude Include="Nosotros.h">
+      <Filter>Archivos de encabezado</Filter>
+    </ClInclude>
+    <ClInclude Include="TablaHash.h">
+      <Filter>Archivos de encabezado</Filter>
+    </ClInclude>
+    <ClInclude Include="GeneradorData.h">
+      <Filter>Archivos de encabezado</Filter>
+    </ClInclude>
+    <ClInclude Include="UtilidadesConsola.h">
+      <Filter>Archivos de encabezado</Filter>
+    </ClInclude>
+    <ClInclude Include="ArbolBinarioBusqueda.h">
+      <Filter>Archivos de encabezado\CursosEstructuras</Filter>
+    </ClInclude>
+    <ClInclude Include="AVL.h">
+      <Filter>Archivos de encabezado\CursosEstructuras</Filter>
+    </ClInclude>
+    <ClInclude Include="Cursos.h">
+      <Filter>Archivos de encabezado\CursosEstructuras</Filter>
+    </ClInclude>
+    <ClInclude Include="ListaCursos.h">
+      <Filter>Archivos de encabezado\CursosEstructuras</Filter>
+    </ClInclude>
+    <ClInclude Include="Estudiante.h">
+      <Filter>Archivos de encabezado\EstudiantesEstructuras</Filter>
+    </ClInclude>
+    <ClInclude Include="ABBEstudiante.h">
+      <Filter>Archivos de encabezado\EstudiantesEstructuras</Filter>
+    </ClInclude>
+    <ClInclude Include="AVLEstudiante.h">
+      <Filter>Archivos de encabezado\EstudiantesEstructuras</Filter>
+    </ClInclude>
+    <ClInclude Include="Administrador.h">
+      <Filter>Archivos de encabezado\Users</Filter>
+    </ClInclude>
+    <ClInclude Include="EstudianteManager.h">
+      <Filter>Archivos de encabezado\Users</Filter>
+    </ClInclude>
+    <ClInclude Include="Profesor.h">
+      <Filter>Archivos de encabezado\Users</Filter>
+    </ClInclude>
+    <ClInclude Include="ColaSimple.h">
+      <Filter>Archivos de encabezado\EstudiantesEstructuras</Filter>
+    </ClInclude>
+    <ClInclude Include="Nodo.h">
+      <Filter>Archivos de encabezado\CursosEstructuras</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="CrehanaPlus.cpp">
+      <Filter>Archivos de origen</Filter>
+    </ClCompile>
+    <ClCompile Include="AssemblyInfo.cpp">
+      <Filter>Archivos de origen</Filter>
+    </ClCompile>
+    <ClCompile Include="pch.cpp">
+      <Filter>Archivos de origen</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="app.ico">
+      <Filter>Archivos de recursos</Filter>
+    </Image>
+  </ItemGroup>
+</Project>

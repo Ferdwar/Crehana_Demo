@@ -1,0 +1,60 @@
+57|Sistemas Distribuidos|Comunicacion entre nodos|Laura
+33|Programacion Movil Android|Apps nativas|Laura
+4|Estructuras de Datos|Listas pilas colas y arboles|Pedro
+20|Docker y Contenedores|Virtualizacion ligera|David
+47|Programacion Concurrente|Hilos y sincronizacion|Diego
+2|Programacion en Java|Conceptos basicos y POO en Java|Maria
+41|SQL Avanzado|Procedimientos y triggers|Jose
+7|Bases de Datos SQL|Consultas y modelado relacional|Rosa
+25|Testing de Software|Pruebas unitarias y funcionales|Luis
+53|Matematica Discreta|Logica y teoria de grafos|Jose
+32|Seguridad en Redes|Proteccion de infraestructura|David
+14|Hacking Etico|Tecnicas de auditoria y pentesting|Maria
+29|Robotica Basica|Sensores y actuadores|Jose
+44|Analitica Predictiva|Modelos estadisticos|David
+11|Desarrollo Web CSS|Estilos y maquetacion|Diego
+8|Sistemas Operativos|Procesos hilos y memoria|David
+56|Redes Avanzadas|Routing switching y protocolos|David
+18|Big Data|Procesamiento de datos masivos|Ana
+60|Administracion de Servidores|Gestion de sistemas|Andrea
+5|Algoritmos Avanzados|Recursion backtracking y greedy|Jose
+16|Machine Learning|Modelos de aprendizaje supervisado|Pedro
+36|Unity 3D|Diseño avanzado de videojuegos|Andrea
+1|Introduccion a C++|Aprende los fundamentos de C++ desde cero|Luis
+42|NoSQL|MongoDB bases documentales|Ana
+52|Electronica Digital|Circuitos logicos|Pedro
+15|Inteligencia Artificial|Conceptos y aplicaciones|Carlos
+6|Redes de Computadoras|Modelo OSI y configuracion basica|Ana
+30|Arduino|Proyectos electronicos simples|Ana
+54|Calculo Computacional|Aplicaciones numericas|Ana
+39|Microservicios|Arquitectura distribuida|Carlos
+59|Criptografia|Cifrado y seguridad de datos|Diego
+49|Computacion Grafica|Renderizado y shaders|Luis
+28|Power BI|Dashboards y reportes|Pedro
+45|Compiladores|Analisis lexico y sintactico|Laura
+13|Ciberseguridad Basica|Fundamentos de seguridad digital|Luis
+24|Ingenieria de Software|Ciclo de vida y UML|Andrea
+50|Modelado 3D|Diseño de objetos tridimensionales|Maria
+21|Kubernetes|Orquestacion de contenedores|Laura
+3|Python Inicial|Sintaxis y logica con Python|Carlos
+65|Administracion de Servidores|Gestion de sistemas|Andrea
+10|Desarrollo Web HTML|Fundamentos de paginas web|Sofia
+48|Seguridad Informatica|Amenazas criptografia redes|Andrea
+31|Raspberry Pi|Computacion embebida|Rosa
+22|DevOps|Integracion y despliegue continuo|Sofia
+35|Unity 2D|Crear videojuegos simples|Diego
+34|Programacion Movil iOS|Desarrollo con Swift|Sofia
+19|Cloud Computing|Servicios en la nube|Rosa
+51|Automatizacion RPA|Bots y flujos automatiados|Carlos
+27|Analisis de Datos|Estadistica y visualizacion|Carlos
+43|Ciencia de Datos|Pipelines y modelos|Rosa
+9|Arquitectura de Computadoras|Hardware y ensamblador|Laura
+40|Blockchain|Fundamentos y contratos inteligentes|Pedro
+17|Deep Learning|Redes neuronales y perceptrones|Jose
+26|Calidad de Software|Normas y buenas practicas|Maria
+38|APIs REST|Diseno y consumo de APIs|Maria
+37|Desarrollo Backend|Conceptos de servidores|Luis
+58|Computacion Paralela|Procesamiento en paralelo|Sofia
+55|Investigacion Operativa|Optimizacion y modelos|Rosa
+46|Modelado 3D|Fundamentos y aplicaciones modernas|Maria
+89|Algoritmos 4|Curso de programacion en c++|Lucas Olmedo

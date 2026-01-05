@@ -1,0 +1,6 @@
+Email: fe@gmail.com | Contraseña: 1234 | Usuario: re | Cumpleaños: 10/10/2004 | Genero: Masculino | Rol: Administrador
+Email: administrador@gmail.com | Contraseña: 1234 | Usuario: administrador | Cumpleaños: 12/10/1995 | Genero: Masculino | Rol: Administrador
+Email: 12| Contraseña: 1| Usuario: 12|Cumpleaños: 1/12/1992 | Genero: Masculino | Rol: Administrador
+Email: sa| Contraseña: 12| Usuario: s|Cumpleaños: 1/2/1993 | Genero: Otro | Rol: Administrador
+Email: an| Contraseña: 123| Usuario: ana|Cumpleaños: 2/3/1999 | Genero: Otro | Rol: Administrador
+Email: ricardobienesraices@gmail.com| Contraseña: 1234| Usuario: ricardito|Cumpleaños: 12/12/1990 | Genero: Masculino | Rol: Administrador

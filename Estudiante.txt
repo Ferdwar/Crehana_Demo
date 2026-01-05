@@ -1,0 +1,4 @@
+
+Email: Alma123| Contraseña: 1234| Usuario: Alma|Cumpleaños: 21/11/2001 | Genero: Femenino | Rol: Estudiante
+Email: ALEXIS123| Contraseña: Ale| Usuario: Noah|Cumpleaños: 21/10/2009 | Genero: Masculino | Rol: Estudiante
+Email: u| Contraseña: 12| Usuario: una|Cumpleaños: 2/2/2008 | Genero: Masculino | Rol: Estudiante

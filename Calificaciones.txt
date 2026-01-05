@@ -1,0 +1,9 @@
+juan|1|15
+juan|2|11
+maria|1|18
+maria|3|14
+pedro|2|10
+pedro|3|19
+ana|1|17
+ana|2|16
+una|5|18
